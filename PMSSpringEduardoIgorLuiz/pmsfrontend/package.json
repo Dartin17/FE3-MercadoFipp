@@ -1,0 +1,12 @@
+{
+  "name": "frontend-express",
+  "version": "1.0.0",
+  "description": "Frontend para envio e listagem de músicas com Express.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
